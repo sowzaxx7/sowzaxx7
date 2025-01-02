@@ -1,4 +1,4 @@
-## Olá meu nome e SowzaX, programador e mexo com outras coisas tbm!
+## Olá meu nome e SowzaX, programador e mexo com outras coisas tbm!!
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sowzaxx7&theme=shadow_red&show_icons=true)
 
